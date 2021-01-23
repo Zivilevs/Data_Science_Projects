@@ -7,3 +7,4 @@ My Data Science learning notebooks and projects
 * Decision Tree Visualization with graphviz and matplotlib
 * Cancer Dataset modeling with Random Forest (Classification) 
 * Artificial dataset with Neural Network model (Classification)
+* Handwritten Digits with Neural Network model (Classification)
