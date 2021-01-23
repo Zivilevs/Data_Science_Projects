@@ -6,3 +6,4 @@ My Data Science learning notebooks and projects
 * Cancer dataset analysis and modeling with Logistic Regression (Classification)
 * Decision Tree Visualization with graphviz and matplotlib
 * Cancer Dataset modeling with Random Forest (Classification) 
+* Artificial dataset with Neural Network model (Classification)
