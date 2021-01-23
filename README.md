@@ -5,3 +5,4 @@ My Data Science learning notebooks and projects
 * Titanic dataset analysis and modeling with Logistic Regression (Classification)
 * Cancer dataset analysis and modeling with Logistic Regression (Classification)
 * Decision Tree Visualization with graphviz and matplotlib
+* Cancer Dataset modeling with Random Forest (Classification) 
