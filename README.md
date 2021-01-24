@@ -8,3 +8,4 @@ My Data Science learning notebooks and projects
 * Cancer Dataset modeling with Random Forest (Classification) 
 * Artificial dataset with Neural Network model (Classification)
 * Handwritten Digits with Neural Network model (Classification)
+* Visualizing weights in Artificial Neural Network with OpenML
